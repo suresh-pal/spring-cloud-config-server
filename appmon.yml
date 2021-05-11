@@ -1,0 +1,12 @@
+app: 
+  title: Application monitoring with configuration from config server repo Local
+  list: 
+   - loginurl: 'https://today.tva.gov'
+     appurl: 'https://today.tva.gov/'
+   - loginurl: 'https://today.tva.gov'
+     appurl: 'https://today.tva.gov/'
+  env: 
+    webdriver:
+      chrome:
+        driver: C:\\Users\\sures\\Downloads\\chromedriver_win32\\chromedriver.exe
+        headless: false
